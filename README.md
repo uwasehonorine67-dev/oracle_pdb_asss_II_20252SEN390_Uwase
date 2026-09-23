@@ -65,5 +65,5 @@ The screenshots directory contains evidence organized as follows:
 
 ## 8. GitHub Repository
 
-**Required repository name:** `oracle_pdb_ass_II_20252SEN390_honorine`\
+**Required repository name:** `https://github.com/uwasehonorine67-dev/oracle_pdb_asss_II_20252SEN390_Uwase.git`\
 **Visibility:** Public
